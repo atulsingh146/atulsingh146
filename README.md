@@ -47,6 +47,7 @@ Welcome to my GitHub! I'm a passionate **Frontend Web Developer** with a strong 
 - 📩 Email: atul.raj.146@gmail.com
 - 🌐 Portfolio: ... 
 - 🔗 LinkedIn: https://www.linkedin.com/in/atulsingh143
+- 🔗 Vercel: https://vercel.com/atulsingh146s-projects
 
 > “Code the future you imagine.” 💡
 
