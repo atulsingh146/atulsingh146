@@ -42,6 +42,13 @@ Welcome to my GitHub! I'm a passionate **Frontend Web Developer** with a strong 
 
 ---
 
+### 💻 Basic Projects (Live)
+- Movie Search App(using react) : https://movie-search-app-tau-ebon.vercel.app/
+- Todo App(using react) : https://todo-list-rose-seven.vercel.app/
+- Multi Step Form(using react) :https://multi-step-form-three-rho.vercel.app/
+
+---
+
 ## 📫 Let's Connect
 
 - 📩 Email: atul.raj.146@gmail.com
